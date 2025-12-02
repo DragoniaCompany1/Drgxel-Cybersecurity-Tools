@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ DRGXEL CyberPack v1.0 BETA TEST
 
 <div align="center">
@@ -111,29 +110,15 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/drgxel-cyberpack.git
-cd drgxel-cyberpack
+git clone https://github.com/DragoniaCompany1/Drgxel-Cybersecurity-Tools
+cd Drgxel-Cybersecurity-Tools
 
 # Berikan permission
-chmod +x drgxel_cyberpack.py
+chmod +x security.py
 
 # Jalankan
-python drgxel_cyberpack.py
+python security.py
 ```
-
-### Method 2: Wget (Quick Install)
-
-```bash
-# Download langsung
-wget https://raw.githubusercontent.com/yourusername/drgxel-cyberpack/main/drgxel_cyberpack.py
-
-# Set permission
-chmod +x drgxel_cyberpack.py
-
-# Run
-python drgxel_cyberpack.py
-```
-
 ### Method 3: Termux (Android)
 
 ```bash
@@ -144,11 +129,11 @@ pkg update && pkg upgrade
 pkg install python
 
 # Download tool
-git clone https://github.com/yourusername/drgxel-cyberpack.git
-cd drgxel-cyberpack
+git clone https://github.com/DragoniaCompany1/Drgxel-Cybersecurity-Tools
+cd Drgxel-Cybersecurity-Tools
 
 # Run
-python drgxel_cyberpack.py
+python security.py
 ```
 
 ---
@@ -159,10 +144,10 @@ python drgxel_cyberpack.py
 
 ```bash
 # Jalankan tool
-python drgxel_cyberpack.py
+python security.py
 
 # Atau jika sudah executable
-./drgxel_cyberpack.py
+./security.py
 ```
 
 ### Example Workflows
@@ -615,7 +600,7 @@ Jika Anda menemukan bug atau punya saran:
 
 <div align="center">
 
-**Made with 🔥 by DRGXEL Team**
+**Made with 🔥 by DEXEL SCRIPTER Team**
 
 *Stay Safe, Stay Secure!* 🛡️
 
