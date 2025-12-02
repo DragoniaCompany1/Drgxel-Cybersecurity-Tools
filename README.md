@@ -567,9 +567,9 @@ SOFTWARE.
 
 **DRGXEL Team**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: contact@drgxel.com
-- Website: https://drgxel.com
+- GitHub: [@dragoniacompany1](https://github.com/dragoniacompany1)
+- Email: lutpilarsi614@gmail.com
+- channel WhatsApp : https://whatsapp.com/channel/0029Vb6i6XmFi8xVkZ7QkO40
 
 ---
 
@@ -594,7 +594,7 @@ Jika Anda menemukan bug atau punya saran:
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/drgxel-cyberpack&type=Date)](https://star-history.com/#yourusername/drgxel-cyberpack&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/drgxel-cyberpack&type=Date)](https://star-history.com/dragoniacompany1/Drgxel-Cybersecurity-Tools&Date)
 
 ---
 
