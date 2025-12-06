@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ DRGXEL CyberPack v2.0 - RELEASE EDITION
 
 <div align="center">
