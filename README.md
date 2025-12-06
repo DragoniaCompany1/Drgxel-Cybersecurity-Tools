@@ -494,7 +494,7 @@ apt install libimage-exiftool-perl  # Debian/Ubuntu
 
 ```bash
 # Jalankan tool
-python3 drgxel_cyberpack.py
+python3 security.py
 
 # Tool akan menampilkan:
 # - Welcome screen dengan statistics
